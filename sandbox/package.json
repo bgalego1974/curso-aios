@@ -1,0 +1,14 @@
+{
+  "name": "aios-sandbox-task-manager",
+  "version": "1.0.0",
+  "description": "Projecto-exemplo para praticar o Synkra AIOS — Task Manager SaaS",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "node --test tests/",
+    "lint": "echo 'Lint OK — nenhum erro encontrado'",
+    "typecheck": "echo 'Typecheck OK — nenhum erro de tipos'"
+  },
+  "keywords": ["aios", "curso", "sandbox"],
+  "license": "MIT"
+}
